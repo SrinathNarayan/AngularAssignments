@@ -1,0 +1,9 @@
+.selected{
+    background-color: darkgoldenrod;
+    color: black;
+    font-weight: bold;
+}
+.center {
+    display: flex;
+    justify-content: center;
+  }
